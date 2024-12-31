@@ -1,0 +1,79 @@
+Prompt for test plan:-
+---------------------
+1. Below are my requirements. i have 3 testers. i have 45 days. Testing should be performed in Mac and windows, Browsers are chrome and safari.
+
+Test case:-
+----------
+1. good, for above requirement can you give test case in form of excel for "User Accounts" and "Product Catalog" modules.
+2. Ok that's good buy keeping test case design in mind create the test case which should coverer all functionality i mean positive and negative flow.
+
+Note:-
+-----
+While giving test case it will give high level because it does not know ui and fields present in it so after knowing ui past the ui design and ask for BVA and equivalence class portion test case and added it later.
+
+
+Shift Left Testing:-
+-------------------
+he “shift left” testing movement is about pushing testing toward the early stages of software development. By testing early and often, a project can reduce the number of bugs and increase the quality of the code. The goal is to not find any critical bugs during the deployment phase that require code patching.
+
+Know it is import to know which test should be automated and which test should go for unit, regression, Integration, UAT.
+1.Paset the test case and ask cany you add one more column as types of testing and say which test case should go for "unit, regression, Integration, UAT.
+
+To Generate the Automation Code:-
+--------------------------------
+1. Hey Chat gbt this is outer  "XXXXXXXXXXXXXX" html dom code by keeping this can you give me the automation code in java selenium.
+2. Good, you have given in the raw format, know can you give in page object model style.
+3. Good, Can you integrate the Log4j for logging, and extortion report for reporting.
+4. Good, Can you give Maven dependency for above things
+5. Good, Can you give by comparing above and for git readme file.
+6. Ok very Good, know can you give in playwright java with bdd style in cucumber feature file.
+
+To Generate the API Automation:-
+-------------------------------
+1. Hey Chat Gpt this is the network api log "XXXXXXXXXXX" by considering this can you give me Api automation in rest assure, in bdd way.
+2. okey that is verry good, by considering above one can you give me api test case in this way "Environment	Test											
+Web Base Url	https://restful-booker.herokuapp.com											
+Authorization	Generated token(Only For Put, Patch And Delete)											
+												
+Request									Response			
+Test Case ID	Scenario description	Request Name	HTTP Method	End Point	Content Type	Body/Payload	Parameters		Status Code	Response Time	Response Parameters	Status" in rows and columns like excel way.
+
+To Log the defect in Jira:-
+--------------------------
+1.Hey Chat Gpt see i am facing issue in the part of the "XXXXXXXX" can you help me in logging the defect.
+2.Good, Can you compose me a email to say the issue which addressed in above Prompted in mail my QA manger, and my peers to know this as be addressed it should be short and sweet only it should be message conwaying and easy and fast to understand.
+
+GitHub Copalite:-
+---------------
+
+GitHub Copilot acts as an AI pair programmer, helping developers write code faster and with fewer errors by providing real-time code suggestions directly within the code editor.
+
+Key Features of GitHub Copilot:
+
+Code Suggestions: As you type, GitHub Copilot suggests whole lines or blocks of code, helping you complete functions and methods quickly.
+
+Inline Chat: You can use natural language to ask questions or request code snippets, and Copilot will generate the corresponding code.
+
+Support for Multiple Languages: It supports a wide range of programming languages, making it versatile for different types of projects.
+
+Integration with Popular IDEs: GitHub Copilot integrates seamlessly with Visual Studio Code, Eclipse, IntelliJ and other popular development environments
+
+Note GitHub Copalite will have plugin available in exciples marketplace you can install that crate an account in GitHub Copalite it will 30 free trial.
+user your GitHub creation to login in exciples GitHub Copalite plugin enter the activation code.
+
+After doing that you can you can open that and Prompt like open the that class correct that add that this. Even you can push you code base to the GitHub with simple Prompt.
+
+Ai Powered Testing Tool:-
+-----------------------
+test Rigor is an AI-powered test automation tool designed to simplify and accelerate the process of creating and maintaining automated tests. Here are some key features and benefits:
+
+Key Features:
+-------------
+Plain English Test Creation: Allows users to write tests in plain English, eliminating the need for coding knowledge.
+Effortless Test Maintenance: Reduces maintenance time by creating ultra-stable tests that are less dependent on implementation details.
+Cross-Platform Testing: Supports web, mobile, desktop, and API testing, making it versatile for various applications.
+AI-Powered Automation: Utilizes AI to automatically generate and execute tests, improving efficiency and accuracy.
+
+
+
+
