@@ -19,6 +19,7 @@ he “shift left” testing movement is about pushing testing toward the early s
 Know it is import to know which test should be automated and which test should go for unit, regression, Integration, UAT.
 1.Paset the test case and ask cany you add one more column as types of testing and say which test case should go for "unit, regression, Integration, UAT.
 
+
 To Generate the Automation Code:-
 --------------------------------
 1. Hey Chat gbt this is outer  "XXXXXXXXXXXXXX" html dom code by keeping this can you give me the automation code in java selenium.
@@ -27,6 +28,7 @@ To Generate the Automation Code:-
 4. Good, Can you give Maven dependency for above things
 5. Good, Can you give by comparing above and for git readme file.
 6. Ok very Good, know can you give in playwright java with bdd style in cucumber feature file.
+
 
 To Generate the API Automation:-
 -------------------------------
@@ -38,10 +40,12 @@ Authorization	Generated token(Only For Put, Patch And Delete)
 Request									Response			
 Test Case ID	Scenario description	Request Name	HTTP Method	End Point	Content Type	Body/Payload	Parameters		Status Code	Response Time	Response Parameters	Status" in rows and columns like excel way.
 
+
 To Log the defect in Jira:-
 --------------------------
 1.Hey Chat Gpt see i am facing issue in the part of the "XXXXXXXX" can you help me in logging the defect.
 2.Good, Can you compose me a email to say the issue which addressed in above Prompted in mail my QA manger, and my peers to know this as be addressed it should be short and sweet only it should be message conwaying and easy and fast to understand.
+
 
 GitHub Copalite:-
 ---------------
@@ -63,16 +67,31 @@ user your GitHub creation to login in exciples GitHub Copalite plugin enter the 
 
 After doing that you can you can open that and Prompt like open the that class correct that add that this. Even you can push you code base to the GitHub with simple Prompt.
 
+
 Ai Powered Testing Tool:-
 -----------------------
 test Rigor is an AI-powered test automation tool designed to simplify and accelerate the process of creating and maintaining automated tests. Here are some key features and benefits:
 
 Key Features:
--------------
 Plain English Test Creation: Allows users to write tests in plain English, eliminating the need for coding knowledge.
+
 Effortless Test Maintenance: Reduces maintenance time by creating ultra-stable tests that are less dependent on implementation details.
+
 Cross-Platform Testing: Supports web, mobile, desktop, and API testing, making it versatile for various applications.
+
 AI-Powered Automation: Utilizes AI to automatically generate and execute tests, improving efficiency and accuracy.
+
+
+Auto Healing:-
+----------------
+
+Purpose: Designed to ensure that automated tests continue to run smoothly even when there are changes in the application.
+
+Functionality: Automatically detects changes in the UI elements and updates the test scripts accordingly.
+
+Benefit: Reduces the need for manual intervention, thus maintaining the continuity of automated testing processes.
+
+
 
 
 
