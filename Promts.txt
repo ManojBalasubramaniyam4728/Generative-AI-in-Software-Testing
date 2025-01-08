@@ -115,6 +115,29 @@ MY SQL Prompts:-
 
 2. Can you give me query to this "Which city has generated the highest total sales amount?".
 
+GPT For all:-
+------------
+GPT4All is an open-source project that allows you to run large language models (LLMs) locally on your device without needing an internet connection1. This means you can use AI chatbots and other LLM applications privately and securely on your own hardware.
+
+Key Features of GPT4All:
+
+1. Privacy: Your data stays on your device.
+2. Compatibility: Supports CPUs and GPUs, including Mac M Series, AMD, and NVIDIA GPUs.
+3. Accessibility: Works on consumer-grade hardware like laptops and desktops.
+4. Open Source: The code is available on GitHub under the MIT license2.
+
+How to Install GPT4All:
+
+1. Download the Installer:
+Visit the GPT4All GitHub page or the Nomic AI website to download the installer for your operating system (Windows, macOS, or Ubuntu).
+
+2. Run the Installer:
+Follow the installation instructions specific to your OS. For example, on Windows, you would run the .exe file, while on macOS, you would use the .dmg file.
+
+3. Then select the basic model with low configuration and try testing it.
+
+4. Even user can upload the file locally to Privacy related things.
+
 
 
 
