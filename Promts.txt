@@ -33,12 +33,14 @@ To Generate the Automation Code:-
 To Generate the API Automation:-
 -------------------------------
 1. Hey Chat Gpt this is the network api log "XXXXXXXXXXX" by considering this can you give me Api automation in rest assure, in bdd way.
-2. okey that is verry good, by considering above one can you give me api test case in this way "Environment	Test											
+2. okey that is verry good, by considering above one can you give me api test case in this way 
+
+"Environment	Test											
 Web Base Url	https://restful-booker.herokuapp.com											
 Authorization	Generated token(Only For Put, Patch And Delete)											
 												
-Request									Response			
-Test Case ID	Scenario description	Request Name	HTTP Method	End Point	Content Type	Body/Payload	Parameters		Status Code	Response Time	Response Parameters	Status" in rows and columns like excel way.
+Request									                                                                         Respons
+Test Case ID	Scenario description	Request Name	HTTP Method	End Point	Content Type	Body/Payload	Parameters		Status Code	Response Time	Response Parameters	Status" in rows and columns like excel way."
 
 
 To Log the defect in Jira:-
@@ -84,14 +86,34 @@ AI-Powered Automation: Utilizes AI to automatically generate and execute tests, 
 
 Auto Healing:-
 ----------------
-
 Purpose: Designed to ensure that automated tests continue to run smoothly even when there are changes in the application.
 
 Functionality: Automatically detects changes in the UI elements and updates the test scripts accordingly.
 
 Benefit: Reduces the need for manual intervention, thus maintaining the continuity of automated testing processes.
 
+Api Prompts :-
+--------------
+1. hey copilot below is my api document which is having get and post call can you give me the test case in this format in rows and column wise like excel.
+"Environment	Test											
+Web Base Url	https://restful-booker.herokuapp.com											
+Authorization	Generated token(Only For Put, Patch And Delete)											
+												
+Request									                                                                       Response			
+Test Case ID	Scenario description	Request Name	HTTP Method	End Point	Content Type	Body/Payload	Parameters	Status Code	Response Time	Response Parameters	Status"
 
+
+2. okey super and good, can you give five rest assured code for above test case with assertion.
+
+3. okey super good, can you give pojo(Pain old java object) class with getter and setter for the post methods or the ,method is which is having payload.
+
+4. good, Can you give above this in playwright code.
+
+MY SQL Prompts:-
+----------------
+1. Below is my MYSQL tables can you analyzed it.
+
+2. Can you give me query to this "Which city has generated the highest total sales amount?".
 
 
 
